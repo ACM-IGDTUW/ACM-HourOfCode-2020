@@ -1,11 +1,6 @@
 # ACM Hour Of Code 2020
 
 ### Resources
-<style>
-table {
-    width:100%;
-}
-</style>
 
 | Event Date     | Event | Resources link     |
 | :---        |    :----   |          :--- |
