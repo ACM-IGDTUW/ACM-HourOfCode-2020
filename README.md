@@ -1,9 +1,14 @@
 # ACM Hour Of Code 2020
 
 ### Resources
+<style>
+table {
+    width:100%;
+}
+</style>
 
 | Event Date     | Event | Resources link     |
-| :---        |    :----:   |          ---: |
+| :---        |    :----   |          :--- |
 | 8th Dec 2020   |Cybersecurity: Breaking the Web   | [PPT]()   |
 | 9th Dec 2020   | A walk-through of the C++ Standard Template Library        | [PPT](https://drive.google.com/file/d/1dMK7zLCFnj10JAEfL_AbUcOJnNtaSI6H/view?usp=sharing)     |
 | 10th Dec 2020   | Machine Learning Algorithms| [PPT](https://drive.google.com/file/d/19QneKoMfXLnmF8UMfl1ghA4fdsy-albw/view?usp=sharing)    |
